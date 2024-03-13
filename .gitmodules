@@ -1,0 +1,30 @@
+##################################################
+# Game XXX Core
+
+[submodule "Plugins/Core/GameOnlineCore"]
+	path = Plugins/Core/GameOnlineCore
+	url = https://github.com/owoDra/GameOnlineCore.git
+
+
+##################################################
+# Third Party
+
+[submodule "Plugins/ThirdParty"]
+	path = Plugins/ThirdParty
+	url = https://github.com/owoDra/ThirdParty.git
+
+
+##################################################
+# Configs
+
+[submodule "Config/Custom"]
+	path = Config/Custom
+	url = https://github.com/owoDra/Custom.git
+
+
+##################################################
+# Project
+
+[submodule "Plugins/Project/BEDataBase"]
+	path = Plugins/Project/BEDataBase
+	url = https://github.com/owoDra/BEDataBase.git
